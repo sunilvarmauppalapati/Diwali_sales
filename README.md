@@ -5,3 +5,10 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 2) Performed Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, Seaborn Libraries.
 3) Improved Customer experience by identifying potential customers across different states, occupation,Martial_status, gender and age groups.
 4) Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+5) Summarize the findings and key insights obtained from the analysis.
+# Tools Used :-
+1) Python: Programming language used for data analysis.
+2) Jupyter Notebook: Interactive environment for running Python code, data visualization, and analysis.
+3) Pandas: Library for data manipulation and analysis.
+4) NumPy: Library for numerical operations and array manipulation.
+5) Matplotlib and Seaborn: Libraries for data visualization.
