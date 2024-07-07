@@ -13,3 +13,5 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 4) NumPy: Library for numerical operations and array manipulation.
 5) Matplotlib and Seaborn: Libraries for data visualization.
 # Key Findings :-
+1) Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working in the IT, healthcare, and aviation sectors, are more likely to purchase products from the food, clothing, and electronics     categories.
+2) Targeted marketing efforts can be tailored towards these customer segments to improve sales.
